@@ -59,7 +59,7 @@ The app takes user input for any location (e.g., city, ZIP code, landmark) and d
 
 **Mohak Sharma**  
 AI Researcher & Developer  
-Arizona State University – MS IT  
+Arizona State University – MS Data Science, Analytics and Engineering  
 🔗 [LinkedIn: Mohak Sharma](https://www.linkedin.com/in/mohaksharma2507)  
 🔗 [GitHub: MohakSharma2507](https://github.com/MohakSharma2507)
 
